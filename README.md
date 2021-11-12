@@ -1,5 +1,5 @@
 # Drum-Kit
-Section 13: Advanced Javascript and DOM Manipulation of the course 'The complete web development bootcamp' with Angela 
+Section 13: Advanced JavaScript and DOM Manipulation of the course 'The complete web development Bootcamp' with Angela
 
 In this module more intermediate / advanced parts of the Document Object Model or the DOM,  here to show how can build a drum kit web site.
 
